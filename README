@@ -1,0 +1,7 @@
+:XNA:
+
+3D Cube:
+	program creates 3D cube with 6 seperate textured sides.  controllable 
+	movement left/right about its own origin, controllable rotational
+	velocity with up/down.  textures not given, must include your own.
+	
