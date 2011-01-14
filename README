@@ -8,5 +8,8 @@
 vPong:
 	pong variant, single player.  scoreboard, bground music, effects, 
 	ball/paddle speeds increase over time.  no sprites/.wav's given, 
-	just add your own, change the load variable names, and recompile. 
+	just add your own, change the load variable names, and recompile.
+
+Doltmuck:
+	Full blown Quake/Unreal Tournament style FPS.  Bunnyhop script built in ( jumps based on 1 second spacebar timings, speed increases per jump up to a max ), collision detection, network play ( over LAN with offline XBL accounts ), music, hit detection/sounds, fully-functioning launch pads, respawns, main menu, etc.  No assets included here, only code.  Email me if you wish to receive them. 
 	
